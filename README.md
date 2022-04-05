@@ -1,2 +1,1 @@
-# Projekt Python
-##Zdravje v Sloveniji
+# Projekt Python- Zdravje v Sloveniji
